@@ -12,7 +12,7 @@ Welcome to the **Cat Photo App**! This project is part of the "Learn HTML by Bui
 - HTML5  
 
 ## 📷 Preview  
-![Cat Photo App](https://via.placeholder.com/800x400?text=Cat+Photo+App) *(Replace with an actual screenshot)*  
+
 
 ## 🛠️ Getting Started  
 1. Clone the repository:  
